@@ -205,15 +205,17 @@ curl -X DELETE http://localhost:3000/api/pedidos/1700000000000
 
 **Tela principal da aplicação (Cardápio):**
 
-![Tela do Cardápio](docs/img/tela-cardapio.png)
+<img width="544" height="365" alt="image" src="https://github.com/user-attachments/assets/dc74dc88-554f-4621-810f-ddb2751d8453" />
 
 **Servidor Express em execução no terminal:**
 
-![Servidor rodando](docs/img/servidor-rodando.png)
+<img width="566" height="211" alt="image" src="https://github.com/user-attachments/assets/c655f0d3-5dd9-4989-99d4-fc85e3b9a5e0" />
 
 **Teste da API (GET /api/pedidos):**
 
-![Teste da API](docs/img/teste-api.png)
+<img width="384" height="228" alt="image" src="https://github.com/user-attachments/assets/3a855b35-d3c7-4cd8-a339-2acea088766d" />
+<img width="617" height="372" alt="image" src="https://github.com/user-attachments/assets/7f014b39-b161-4982-bc0c-7138ebfb781e" />
+
 
 ## Link do GitHub Pages
 
