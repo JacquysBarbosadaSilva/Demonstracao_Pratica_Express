@@ -219,7 +219,7 @@ curl -X DELETE http://localhost:3000/api/pedidos/1700000000000
 
 ## Link do GitHub Pages
 
-🔗 [https://SEU-USUARIO.github.io/vue-project-express/](https://SEU-USUARIO.github.io/vue-project-express/)
+🔗 https://jacquysbarbosadasilva.github.io/Apresentacao_ExpressJS/
 
 > **Atenção:** o GitHub Pages só hospeda arquivos estáticos (HTML, CSS e JS). Ele publica o front-end em Vue, mas **não executa o `server.js`**. Para usar a API, é preciso rodar o Express localmente ou hospedá-lo em outro serviço.
 
